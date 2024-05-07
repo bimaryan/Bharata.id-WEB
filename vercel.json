@@ -3,7 +3,8 @@
     "framework": "laravel",
     "functions": {
         "api/index.php": {
-            "runtime": "vercel-php@0.6.0"
+            "runtime": "vercel-php@0.6.0",
+            "mode": "advanced"
         }
     },
     "routes": [
